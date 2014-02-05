@@ -6,7 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem 'brakeman', :git => 'https://github.com/presidentbeef/brakeman.git'
+gem 'brakeman', :git => 'https://github.com/presidentbeef/brakeman.git', :ref => 'f98e58e7271407a69f6a70c97bcc921d19607217'
 
 # Gems used only for assets and not required
 # in production environments by default.
